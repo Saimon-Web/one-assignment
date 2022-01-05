@@ -150,3 +150,31 @@ footer p{
     color: rgb(240, 228, 228);
     font-size: 20px;
 }
+.java{
+   width: 25%;
+   box-shadow: 3px 3px 20px #9d7777;
+   padding: 30px 0px;
+   padding-right: 35px;
+   margin-left: 70px;
+   background-color: rgb(248, 235, 237);
+   border: 1px solid red;
+   border-radius: 10px;
+}
+.java h1{
+    margin-left: 90px;
+    color: rgb(23, 8, 92);
+    font-size: 30px;
+}
+
+.java p{
+    margin-left: 40px;
+    text-align: justify;
+}
+.java img{
+    width: 35%;
+    margin-left:120px;
+    
+}
+.learn-box{
+    display: flex;
+}
