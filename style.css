@@ -47,3 +47,55 @@ body{
     margin-top: 20px;
 
 }
+.second-section{
+    margin-bottom: 100px;
+}
+.second-head-one{
+    text-align: center;
+    font-size: 70px;
+    color: #23C453;
+}
+span{
+    color: blue;
+}
+.second-sec-div{
+    display: flex;
+ 
+}
+.second-sec-under{
+    background-color: aqua;
+    width: 25%;
+    margin-left: 4%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 30px;
+    height: 350px;
+    padding-top: 10px;
+}
+.second-sec-under img , .second-sec-under-one img,.second-sec-under-two img{
+    width:50%;
+    
+}
+.second-sec-under p,.second-sec-under-one p,.second-sec-under-two p{
+    text-align: justify;
+}
+.second-sec-under-one{
+    background-color: burlywood;
+    width: 25%;
+    margin-left: 4%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 30px;
+    height: 350px;
+    padding-top: 10px;
+}
+.second-sec-under-two{
+    background-color: rgb(214, 76, 76);
+    width: 25%;
+    margin-left: 4%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 30px;
+    height: 350px;
+    padding-top: 10px;
+}
