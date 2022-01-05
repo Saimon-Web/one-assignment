@@ -101,6 +101,9 @@ span{
 }
 .third-section{
     display: flex;
+    background-image: url(images/pictures/dream-bg.png);
+    background-repeat: no-repeat;
+   
 }
 .third-sec-under-one{
     width: 50%;
@@ -121,4 +124,14 @@ span{
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 60px;
     width: 80%;
+}
+.four-section{
+    display: flex;
+    margin-top: 100px;
+}
+.four-section .another-one {
+     margin-left: 100px;
+}
+.four-section .third-sec-under-one img{
+    margin-left: -15px;
 }
